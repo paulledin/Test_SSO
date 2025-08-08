@@ -10,6 +10,8 @@ pandas
 matplotlib
 pyarrow<19.0.0
 streamlit-aggrid
+st_snowauth
+
 
 ##altair
 ##pandas
